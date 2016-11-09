@@ -8,7 +8,6 @@ var game = new Phaser.Game(256, 192, Phaser.CANVAS, 'phaser-example',
  */
 function preload() {
 
-
 }
 
 /**
